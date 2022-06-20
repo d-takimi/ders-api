@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1.json",
+        "name":"Seyirtepe",
+        "image":"/images/seyirtepe.jpg"
+
+    },
+    {
+        "id": "2.json", 
+        "name": "Pamukkale", 
+        "image": "/images/pamukkale.jpeg"
+    },
+    {
+        "id": "3.json", 
+        "name": "Leodikya", 
+        "image": "/images/leodikya.jpeg"
+    },
+    {
+        "id": "4.json", 
+        "name": "Teleferik", 
+        "image": "/images/teleferik.jpeg"
+    }
+]
