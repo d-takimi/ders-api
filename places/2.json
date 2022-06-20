@@ -1,5 +1,6 @@
 {
     "id": "2.json", 
     "name": "Pamukkale", 
-    "image": "/images/pamukkale.jpeg"
+    "image": "/images/pamukkale.jpeg",
+    "description":"Pamukkale, güneybatı Türkiye'deki Denizli ilinde doğal bir mevkidir. Kent Kaplıcaları ve akan sulardan kalan karbonat minerallerin teraslarını, travertenlerini kapsamaktadır."
 }

@@ -2,22 +2,61 @@
     {
         "id":"1.json",
         "name":"Seyirtepe",
-        "image":"/images/seyirtepe.jpg"
-
+        "image":"/images/seyirtepe.jpg",
+        "description":""
     },
     {
         "id": "2.json", 
         "name": "Pamukkale", 
-        "image": "/images/pamukkale.jpeg"
+        "image": "/images/pamukkale.jpeg",
+        "description":"Pamukkale, güneybatı Türkiye'deki Denizli ilinde doğal bir mevkidir. Kent Kaplıcaları ve akan sulardan kalan karbonat minerallerin teraslarını, travertenlerini kapsamaktadır."
     },
     {
         "id": "3.json", 
         "name": "Leodikya", 
-        "image": "/images/leodikya.jpeg"
+        "image": "/images/leodikya.jpeg",
+        "description":"Laodikeia Antik Kenti, Denizli İli’nin 6 km. kuzeyinde yer almaktadır. Helenistik kent, M.Ö. 3. yy.’ın ortalarında Seleukos Kralı II. Antiokhos tarafından karısı Laodike adına kurulmuştur."
     },
     {
         "id": "4.json", 
         "name": "Teleferik", 
-        "image": "/images/teleferik.jpeg"
+        "image": "/images/teleferik.jpeg",
+        "description":"Denizli Teleferik, Türkiye'nin Denizli ilinin Pamukkale ilçesinin Kervansaray mahallesinde bulunan teleferik hattıdır. Teleferik, 1500 metre uzunluk ile Ege Bölgesi'nin en uzun teleferiğidir. Bağbaşı Yaylası'na ulaşım sağlamaktadır. üst istasyonun rakımı 1400 metre, alt istasyonun ise 300 metreye ulaşmaktadır."
+    },
+    {
+        "id": "5.json", 
+        "name": "Hierapolis", 
+        "image": "/images/hierapolis.jpg",
+        "description":"Hierapolis (Yunanca: Ἱεράπολις 'kutsal şehir'), Pamukkale (Denizli) yakınlarında bulunan bir antik kenttir. Antik coğrafyacı Strabon ile Ptolemaios verdikleri bilgilerde, Karia bölgesine sınır olan Laodikeia ve Tripolis kentlerine yakınlığı ile Hierapolisin bir Frigya kenti olduğunu ileri sürülmektedir."
+    },
+    {
+        "id": "6.json", 
+        "name": "Karahayıt", 
+        "image": "/images/karahayit.jpg",
+        "description":"Kırmızı-yeşil-sarı tonlarında rengârenk bir görünümü olan termal su kaynakları nedeniyle turistik cazibe merkezidir. Kırmızı su kaynağının içerdiği demir iyonu nedeniyle meydana gelen kırmızı renkli travertenler, Karahayıt'taki yapıların peyzajında sıklıkla kullanılmış ve mahallenin önemli bir özelliği olmuştur."
+    },
+    {
+        "id": "7.json", 
+        "name": "Babadağlılar Çarşısı", 
+        "image": "/images/babadag.jpg",
+        "description":"Denizli'li Mimar Cengiz Bektaş’ın Denizli Kaleiçi Çarşısı’nda olduğu gibi hafif yokuşlu bir yol kenarında yer alan ve girişleri yol kotunda olan dükkanlar şeklinde tasarladığı sembol bir eserdir. Binanın ortasına konumlandırılan boşlukta dönerek çıkan merdivenler olduğu gibi dükkanların sıralandığı hafif eğimli alan kullanılarak basamaksız olarak en üst kata kadar çıkılabilmektedir."
+    },
+    {
+        "id": "8.json", 
+        "name": "Denizli Etnografya Müzesi", 
+        "image": "/images/etnografya.jpg",
+        "description":"Bina, dış yapısı, planı, pencerelerinin formu ve süsleme özellikleri ile Sakız üslubu olarak tanımlanabilir. İki katlı olarak inşa edilen yapı, plan itibariyle ortadan sofalı ve bu sofaya açılan odalardan oluşmaktadır. Bina, Cumhuriyetin ilk yıllarında parti binası olarak kullanılmış ve Ulu Önder Atatürk, 4 Şubat 1931 tarihinde Denizli’ye gelişlerinde burada bir gece misafir edilmiştir."
+    },
+    {
+        "id": "9.json", 
+        "name": "Nihat Zeybekçi Kongre Kültür Merkezi", 
+        "image": "/images/nhtdenizlikongremerkezi.jpg",
+        "description":"Denizli Büyükşehir Belediyesinin halkımıza sunduğu en büyük projelerden biri olan, Mart 2019’da hizmete açılan Nihat Zeybekci Kongre ve Kültür Merkezi 25.000 m2 oturma alanında kurulmuş olup 83.000 m2 kapalı alana sahiptir."
+    },
+    {
+        "id": "10.json", 
+        "name": "Merkezefendi Bilim Merkezi", 
+        "image": "/images/bilim_merkezi.jpg",
+        "description":""
     }
 ]

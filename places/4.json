@@ -1,5 +1,6 @@
 {
     "id": "4.json", 
     "name": "Teleferik", 
-    "image": "/images/teleferik.jpeg"
+    "image": "/images/teleferik.jpeg",
+    "description":"Denizli Teleferik, Türkiye'nin Denizli ilinin Pamukkale ilçesinin Kervansaray mahallesinde bulunan teleferik hattıdır. Teleferik, 1500 metre uzunluk ile Ege Bölgesi'nin en uzun teleferiğidir. Bağbaşı Yaylası'na ulaşım sağlamaktadır. üst istasyonun rakımı 1400 metre, alt istasyonun ise 300 metreye ulaşmaktadır."
 }
