@@ -63,5 +63,10 @@
         "id": "13.json", 
         "name": "Deneme", 
         "image": "/images/bilim_merkezi.jpg"
+    },
+    {
+        "id": "14.json", 
+        "name": "Deneme 2", 
+        "image": "/images/bilim_merkezi.jpg"
     }
 ]
