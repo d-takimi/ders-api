@@ -48,5 +48,10 @@
         "id": "10.json", 
         "name": "Merkezefendi Bilim Merkezi", 
         "image": "/images/bilim_merkezi.jpg"
+    },
+    {
+        "id": "11.json", 
+        "name": "Osmanlı Konağı", 
+        "image": "/images/bilim_merkezi.jpg"
     }
 ]
