@@ -53,5 +53,10 @@
         "id": "11.json", 
         "name": "Osmanlı Konağı", 
         "image": "/images/bilim_merkezi.jpg"
+    },
+    {
+        "id": "12.json", 
+        "name": "Galata Kulesi", 
+        "image": "/images/bilim_merkezi.jpg"
     }
 ]
